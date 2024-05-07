@@ -99,7 +99,7 @@ def json_to_yolo(json_data):
 
 def main():
     # 读取并创建物体类别字典
-    with open('labels\\classes.txt') as f:
+    with open(classes_path) as f:
         global classes_dict
         classes_dict = {value: index for index, value in enumerate(f.read().splitlines())}
 
