@@ -1,0 +1,125 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inverter",
+      "points": [
+        [
+          569.0,
+          135.0
+        ],
+        [
+          718.0,
+          135.0
+        ],
+        [
+          718.0,
+          260.0
+        ],
+        [
+          569.0,
+          260.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bullet display",
+      "points": [
+        [
+          1080.19801980198,
+          243.5247524752475
+        ],
+        [
+          1409.90099009901,
+          243.5247524752475
+        ],
+        [
+          1409.90099009901,
+          329.5365853658536
+        ],
+        [
+          1080.19801980198,
+          329.5365853658536
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1100.0,
+          259.7724550898203
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1110.7784431137725,
+          311.86826347305384
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1395.808383233533,
+          310.07185628742513
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1365.2694610778444,
+          261.5688622754491
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0005.jpg",
+  "imageData": null,
+  "imageHeight": 992,
+  "imageWidth": 1920,
+  "text": ""
+}

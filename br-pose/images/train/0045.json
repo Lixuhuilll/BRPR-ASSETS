@@ -1,0 +1,125 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inverter",
+      "points": [
+        [
+          1166.0,
+          69.0
+        ],
+        [
+          1308.0,
+          69.0
+        ],
+        [
+          1308.0,
+          171.0
+        ],
+        [
+          1166.0,
+          171.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bullet display",
+      "points": [
+        [
+          1085.111111111111,
+          249.33333333333334
+        ],
+        [
+          1407.2222222222222,
+          249.33333333333334
+        ],
+        [
+          1407.2222222222222,
+          321.0
+        ],
+        [
+          1085.111111111111,
+          321.0
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1099.7455470737914,
+          260.68702290076334
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1110.4722792607802,
+          312.32032854209444
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1397.037037037037,
+          311.48148148148147
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1366.1749571183534,
+          260.2058319039451
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0045.jpg",
+  "imageData": null,
+  "imageHeight": 992,
+  "imageWidth": 1920,
+  "text": ""
+}

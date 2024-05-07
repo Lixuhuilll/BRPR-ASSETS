@@ -1,0 +1,125 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inverter",
+      "points": [
+        [
+          1352.0,
+          52.0
+        ],
+        [
+          1601.0,
+          52.0
+        ],
+        [
+          1601.0,
+          316.0
+        ],
+        [
+          1352.0,
+          316.0
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1135.5140186915887,
+          2.803738317757009
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1145.7943925233644,
+          72.89719626168224
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1495.3271028037382,
+          70.09345794392523
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1467.289719626168,
+          1.8691588785046729
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bullet display",
+      "points": [
+        [
+          1126.1682242990653,
+          -0.18691588785046775
+        ],
+        [
+          1506.0,
+          -0.18691588785046775
+        ],
+        [
+          1506.0,
+          84.10280373831782
+        ],
+        [
+          1126.1682242990653,
+          84.10280373831782
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0043.jpg",
+  "imageData": null,
+  "imageHeight": 992,
+  "imageWidth": 1920,
+  "text": ""
+}

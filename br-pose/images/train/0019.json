@@ -1,0 +1,212 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "empty bullet",
+      "points": [
+        [
+          1264.8780487804877,
+          358.8048780487805
+        ],
+        [
+          1379.512195121951,
+          358.8048780487805
+        ],
+        [
+          1379.512195121951,
+          431.9756097560975
+        ],
+        [
+          1264.8780487804877,
+          431.9756097560975
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "real bullet",
+      "points": [
+        [
+          1016.0975609756097,
+          145.39024390243904
+        ],
+        [
+          1096.0,
+          145.39024390243904
+        ],
+        [
+          1096.0,
+          224.65853658536585
+        ],
+        [
+          1016.0975609756097,
+          224.65853658536585
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bullet display",
+      "points": [
+        [
+          1297.2682926829266,
+          262.4634146341463
+        ],
+        [
+          1689.2682926829268,
+          262.4634146341463
+        ],
+        [
+          1689.2682926829268,
+          424.6585365853658
+        ],
+        [
+          1297.2682926829266,
+          424.6585365853658
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1326.532258064516,
+          287.0967741935484
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1324.1129032258066,
+          342.741935483871
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1672.5,
+          408.06451612903226
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1649.1129032258066,
+          343.5483870967742
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1301.7857142857142,
+          376.7857142857143
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1354.4642857142856,
+          410.71428571428567
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1069.7749196141478,
+          195.4983922829582
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1040.3990024937657,
+          173.55610972568576
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0019.jpg",
+  "imageData": null,
+  "imageHeight": 992,
+  "imageWidth": 1920,
+  "text": ""
+}

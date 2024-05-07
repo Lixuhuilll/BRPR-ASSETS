@@ -1,0 +1,211 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "1",
+      "points": [
+        [
+          787.4785591766723,
+          491.93825042881645
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          794.6826758147513,
+          509.9485420240137
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "empty bullet",
+      "points": [
+        [
+          776.3293310463122,
+          486.79245283018867
+        ],
+        [
+          809.0909090909091,
+          486.79245283018867
+        ],
+        [
+          809.0909090909091,
+          526.4150943396227
+        ],
+        [
+          776.3293310463122,
+          526.4150943396227
+        ]
+      ],
+      "group_id": 1,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1028.2389380530972,
+          830.0707964601769
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1087.088495575221,
+          853.079646017699
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "real bullet",
+      "points": [
+        [
+          1011.3478260869566,
+          811.4130434782609
+        ],
+        [
+          1102.6521739130435,
+          811.4130434782609
+        ],
+        [
+          1102.6521739130435,
+          874.4565217391304
+        ],
+        [
+          1011.3478260869566,
+          874.4565217391304
+        ]
+      ],
+      "group_id": 2,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1022.7967032967032,
+          739.5439560439561
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1039.0054945054947,
+          793.1153846153846
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1336.1271676300578,
+          793.3526011560693
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "1",
+      "points": [
+        [
+          1287.049399198932,
+          738.8518024032043
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "point",
+      "flags": {},
+      "attributes": {}
+    },
+    {
+      "label": "bullet display",
+      "points": [
+        [
+          1015.3846153846155,
+          730.7692307692308
+        ],
+        [
+          1345.5621301775147,
+          730.7692307692308
+        ],
+        [
+          1345.5621301775147,
+          801.7751479289941
+        ],
+        [
+          1015.3846153846155,
+          801.7751479289941
+        ]
+      ],
+      "group_id": 3,
+      "description": "",
+      "difficult": false,
+      "shape_type": "rectangle",
+      "flags": {},
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0065.jpg",
+  "imageData": null,
+  "imageHeight": 992,
+  "imageWidth": 1764
+}

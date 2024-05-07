@@ -1,0 +1,4 @@
+real bullet
+empty bullet
+inverter
+bullet display

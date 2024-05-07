@@ -1,0 +1,37 @@
+{
+  "version": "2.3.5",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "inverter",
+      "shape_type": "rectangle",
+      "flags": {},
+      "points": [
+        [
+          170,
+          765
+        ],
+        [
+          459,
+          765
+        ],
+        [
+          459,
+          988
+        ],
+        [
+          170,
+          988
+        ]
+      ],
+      "group_id": null,
+      "description": null,
+      "difficult": false,
+      "attributes": {}
+    }
+  ],
+  "imagePath": "0007.jpg",
+  "imageData": null,
+  "imageHeight": 992,
+  "imageWidth": 1920
+}
